@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Think more talk less</title>
+    <link>https://yimileelog.github.io/posts/</link>
+    <description>Recent content in Posts on Think more talk less</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Apr 2020 22:56:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://yimileelog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>信息断层 大一寒假售卖感受</title>
+      <link>https://yimileelog.github.io/2020/%E4%BF%A1%E6%81%AF%E6%96%AD%E5%B1%82-%E5%A4%A7%E4%B8%80%E5%AF%92%E5%81%87%E5%94%AE%E5%8D%96%E6%84%9F%E5%8F%97/</link>
+      <pubDate>Tue, 21 Apr 2020 22:56:39 +0800</pubDate>
+      
+      <guid>https://yimileelog.github.io/2020/%E4%BF%A1%E6%81%AF%E6%96%AD%E5%B1%82-%E5%A4%A7%E4%B8%80%E5%AF%92%E5%81%87%E5%94%AE%E5%8D%96%E6%84%9F%E5%8F%97/</guid>
+      <description>今天下午突然想到信息断层这个点，认为可以用其做很多事情。
+例如：向高中生销售大学专业认识方面的东西。
+结合我大一寒假销售专业认识书的经历。
+1.如若是线下销售，他们会不会买完全取决于销售前的讲话，而产品本身并不太重要，同样的东西，不同的销售手法得到的结果就不一样。
+2.知识焦虑是一个非常提升购买欲望的点，向他们展示。
+3.价格必须定好，20块钱可能一个也卖不出去，但如果10块钱，很多人可能就会抱着试一试的心态来买。
+4.销售前向顾客亲近会使你销售更加成功，如向达州中学学生展示我就是从这个学校毕业的，这会让你们之间的距离更近一层。
+  寒假后我又有了一个新的想法，利用线上平台向全国高中生普及大学的专业认知（现在好像还没有人做这个东西）
+作此事有如下注意点（暂时想法）
+1.线上必须基于某个平台，自制应用很难获得高流量（我自己当时手机上也下载过很多高质量app，但大多是点开一次看个新鲜后就没有点开过了）
+2.须在前铺垫知识焦虑的东西
+3.内容如何收集是一难题，有时候会不会触碰到版权问题不太清楚。
+4.须在北上广深等大城市调查学生对于专业是否了解或认知，毕竟之前的经历是在达州这种三线城市。
+5.宣传可以基于qq群等方式，使知名度扩大。
+暂时这么多</description>
+    </item>
+    
+    <item>
+      <title>罗翔说刑法 我们为什么要读书</title>
+      <link>https://yimileelog.github.io/2020/%E7%BD%97%E7%BF%94%E8%AF%B4%E5%88%91%E6%B3%95-%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6/</link>
+      <pubDate>Tue, 21 Apr 2020 22:54:50 +0800</pubDate>
+      
+      <guid>https://yimileelog.github.io/2020/%E7%BD%97%E7%BF%94%E8%AF%B4%E5%88%91%E6%B3%95-%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6/</guid>
+      <description>读书分成两种
+功利性读书与非功利性读书
+一个人真正的成功不是在他辉煌的时候有多么的风光，绝大多数人，登上辉煌的舞台都会发光，在风口上猪都能起飞，但关键在于，在你挫折的时候，在你低迷的时候，你是否依然有勇气继续的前行，这就是我们为什么要进行非功利阅读，因为只有非功利的阅读，能让我们在失败之后，依然有勇气，如果你接受的仅仅是成功主义的熏陶，你一定不会有这样的勇气。 非功利性阅读能培育我们的谦卑，我们因为无知而去阅读，但越阅读却越会让我们感到无知，所以我们才会培育谦卑。
+“承认自己的无知，才能开启智慧的大门” ——苏格拉底
+很多人看不见自己的愚蠢，但保持谦卑一定是不会错的。</description>
+    </item>
+    
+    <item>
+      <title>Hugo博客的使用与配置</title>
+      <link>https://yimileelog.github.io/2020/hugo%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 21 Apr 2020 20:46:10 +0800</pubDate>
+      
+      <guid>https://yimileelog.github.io/2020/hugo%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
+      <description>一般在我们的 Hugo 中的主题目录下（themes\icarus\）会有一个 theme.toml 或者 config.yaml 或 theme.json 配置文件，但是我却喜欢在工程根目录下配置 config.toml 文件，这个文件的配置会对整个工程有效。这个配置文件是一个整站的配置。它给 Hugo 提供了如何构建站点的方式，比如全局的参数和菜单。接下来我们就对 config.toml 文件配置进行详解。
+baseurl：配置你的服务器域名地址
+baseurl = &amp;ldquo;https://dp2px.com/&amp;quot; theme：这个配置很关键，如果你的 themes 目录下有多个主题，这里配置你要使用的主题
+theme = &amp;ldquo;MyIcarus&amp;rdquo; languageCode：ISO 639-1语言代码, 你的语言环境, 例如中：zh-cn
+languageCode = &amp;ldquo;zh-cn&amp;rdquo; title：你的网站标题（这个变量可以在页面模板中使用）
+title = &amp;ldquo;DP2PX.COM&amp;rdquo; buildDrafts：在构建的时候是否需要将草稿打包进去,默认 false
+buildDrafts = false buildFuture：包含将要发布的日期（一般不用），默认 false
+buildFuture = false config：修改默认配置文件路径（config.yaml、json、toml|）
+config = &amp;ldquo;config.toml&amp;rdquo; metaDataFormat = &amp;ldquo;toml&amp;rdquo; 调整几个默认文件目录的配置（建议不要配置，使用默认的）：
+contentdir = &amp;ldquo;content&amp;rdquo; dataDir = &amp;ldquo;data&amp;rdquo; defaultExtension = &amp;ldquo;html&amp;rdquo; defaultLayout = &amp;ldquo;post&amp;rdquo; layoutdir = &amp;ldquo;layouts&amp;rdquo; publishdir = &amp;ldquo;public&amp;rdquo; source = &amp;quot;&amp;rdquo; staticdir = &amp;ldquo;static&amp;rdquo; 是否显示 RSS 和 Sitmap 默认显示（建议保留，不要修改）</description>
+    </item>
+    
+  </channel>
+</rss>
